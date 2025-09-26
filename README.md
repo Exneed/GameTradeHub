@@ -1,0 +1,2 @@
+Technologies: Next.js, Supabase, TypeScript, Tailwind CSS, Node.js, REST API
+GameTradeHub is a marketplace platform for gamers where users can buy and sell game accounts and boosting services. The project is built with Next.js as the frontend framework, Supabase as the backend and database layer, and styled with Tailwind CSS. Secure authentication, real-time updates, and REST API structure are implemented to ensure a responsive and reliable user experience.
